@@ -10,14 +10,6 @@ Seasoned senior full‑stack blockchain developer with 7 years of hands‑on e
   
 <br>
 <br>
-  
-  
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=blockchainGuru1018&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/blockchainGuru1018?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a)](https://github.com/blockchainGuru1018)
-  
-</div>
 
 <br>
 
@@ -27,11 +19,6 @@ Seasoned senior full‑stack blockchain developer with 7 years of hands‑on e
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blockchainGuru1018&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<br>
 
 ## 🛠️ Tech Stack
 
