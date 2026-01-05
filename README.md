@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, I'm a Senior Full-Stack Blockchain Developer
+### Hey 👋🏻, I'm a Senior Full-Stack Blockchain Developer
 
 <br/>
 
